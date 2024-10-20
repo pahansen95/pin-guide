@@ -1,0 +1,2 @@
+git+https://github.com/gumyr/build123d.git@v0.7.0
+git+https://github.com/yeicor-3d/yet-another-cad-viewer.git@v0.9.0 # Requires Yarn & Node

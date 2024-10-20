@@ -1,0 +1,5 @@
+.cache
+.venv
+.user.env
+__pycache__
+*.OLD
